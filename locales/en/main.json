@@ -1,0 +1,538 @@
+{
+  "header": {
+    "home": "Home",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "security": "Security",
+    "test1": "Text1",
+    "test2": "Text2",
+    "test3": "Text3",
+    "login": "Log In",
+    "singup": "Sign Up"
+  },
+  "hero": {
+    "title": "Your gateway into the limitless realm of crypto",
+    "subtitle": "Buy, sell, exchange and store digital assets using 8wallet. The future of personal finance is just one click away.",
+    "rev1": "78 reviews",
+    "rev2": "78 reviews"
+  },
+  "assets": {
+    "buy": "Buy with Card",
+    "deposit": "Deposit Crypto",
+    "vievmore": "View more assets"
+  },
+  "whyit": {
+    "title1": "All-in-one Crypto Portfolio",
+    "title2": "Reliable Payment Gateway",
+    "title3": "Private & Secure"
+  },
+  "allcryptohome": {
+    "title": "All the cryptocurrencies you need. <br>And even more",
+    "subtitle": "8wallet supports all major cryptocurrencies. New currencies are added regularly, discover them all in the list below.",
+    "others": "And many others",
+    "seeall": "See all"
+  },
+  "multihome": {
+    "title": "Multi-Currency Payment Gateways",
+    "subtitle": "Explore available deposit and withdrawal methods and choose what suits you best: wire transfers, credit and debit cards or cryptocurrency.",
+    "titlesmal1": "Credit & debit cards",
+    "titlesmal2": "Wire transfer (SEPA)",
+    "text1": "All fiat payments made with Visa/Mastercard are processed through 8wallet’s secure and compliant payment gateway, ensuring seamless experience and instant crypto purchase.",
+    "text2": "Our cutting-edge technology provides a compliant gateway for standartized payment transactions in Europe, making money transfers easier and more transparent."
+  },
+  "started": {
+    "title": "Get started with crypto in just 3 minutes",
+    "tab1": "Buy with Card",
+    "tab2": "Buy with Card",
+    "tab3": "Buy with Card",
+    "tab4": "Buy with Card",
+    "tab5": "Buy with Card",
+    "tab1title": "How Asset Tokenization Can Help Business Entrepreneurs 1",
+    "tab1text": "Digital currencies made a lot of buzz in the past 10 years. In addition to a vast amount of terminology (cryptocurrency, blockchain, validation, etc.), hundreds of coins have appeared. But despite the significant figures for market cap, the actual impact on the economy has not yet been felt.",
+    "tab2title": "How Asset Tokenization Can Help Business Entrepreneurs 1",
+    "tab2text": "Digital currencies made a lot of buzz in the past 10 years. In addition to a vast amount of terminology (cryptocurrency, blockchain, validation, etc.), hundreds of coins have appeared. But despite the significant figures for market cap, the actual impact on the economy has not yet been felt.",
+    "tab3title": "How Asset Tokenization Can Help Business Entrepreneurs 1",
+    "tab3text": "Digital currencies made a lot of buzz in the past 10 years. In addition to a vast amount of terminology (cryptocurrency, blockchain, validation, etc.), hundreds of coins have appeared. But despite the significant figures for market cap, the actual impact on the economy has not yet been felt.",
+    "tab4title": "How Asset Tokenization Can Help Business Entrepreneurs 1",
+    "tab4text": "Digital currencies made a lot of buzz in the past 10 years. In addition to a vast amount of terminology (cryptocurrency, blockchain, validation, etc.), hundreds of coins have appeared. But despite the significant figures for market cap, the actual impact on the economy has not yet been felt.",
+    "tab5title": "How Asset Tokenization Can Help Business Entrepreneurs 1",
+    "tab5text": "Digital currencies made a lot of buzz in the past 10 years. In addition to a vast amount of terminology (cryptocurrency, blockchain, validation, etc.), hundreds of coins have appeared. But despite the significant figures for market cap, the actual impact on the economy has not yet been felt.",
+    "buy": "Buy with Card"
+  },
+  "blog": {
+    "blog": "Blog",
+    "seeallnews": "See all news",
+    
+    "post1data": "12 Oct 2021",
+    "post1title": "How Asset Tokenization Can Help Business Entrepreneurs",
+    "post1text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium saepe nostrum distinctio numquam itaque pariatur ex, error totam atque unde optio deleniti repudiandae accusamus id. Mollitia corporis sapiente odit? Enim?",
+    "post1autor": "Daniel Frost",
+    "post1position": "Сryptocurrency expert",
+    
+    "post2data": "12 Oct 2021",
+    "post2title": "How Asset Tokenization Can Help Business Entrepreneurs",
+    "post2text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium saepe nostrum distinctio numquam itaque pariatur ex, error totam atque unde optio deleniti repudiandae accusamus id. Mollitia corporis sapiente odit? Enim?",
+    "post2autor": "Daniel Frost",
+    "post2position": "Сryptocurrency expert",
+
+    "smalpost1data": "12 Oct 2021",
+    "smalpost1title": "Lacerat tristique orci ornare tortor diam. Vitae faucibus sed odio fringilla...",
+    "smalpost1autor": "Daniel Frost",
+    "smalpost1position": "Сryptocurrency expert",
+
+    "smalpost2data": "12 Oct 2021",
+    "smalpost2title": "Lacerat tristique orci ornare tortor diam. Vitae faucibus sed odio fringilla...",
+    "smalpost2autor": "Daniel Frost",
+    "smalpost2position": "Сryptocurrency expert",
+
+    "smalpost3data": "12 Oct 2021",
+    "smalpost3title": "Lacerat tristique orci ornare tortor diam. Vitae faucibus sed odio fringilla...",
+    "smalpost3autor": "Daniel Frost",
+    "smalpost3position": "Сryptocurrency expert"
+  },
+
+  "team": {
+    "title": "Meet the team",
+    "subtitle": "We are a team of ambitious entrepreneurs, hackers and rockstar marketers building innovative products together",
+    "allteam": "All team"
+  },
+  "teambox": {
+    "position1": "CEO",
+    "name1": "Marvin McKinney",
+    "fullposition1": "CEO, Сryptocurrency expert",
+
+    "position2": "CEO",
+    "name2": "Marvin McKinney",
+    "fullposition2": "CEO, Сryptocurrency expert",
+
+    "position3": "CEO",
+    "name3": "Marvin McKinney",
+    "fullposition3": "CEO, Сryptocurrency expert",
+
+    "position4": "CEO",
+    "name4": "Marvin McKinney",
+    "fullposition4": "CEO, Сryptocurrency expert",
+
+    "position5": "CEO",
+    "name5": "Marvin McKinney",
+    "fullposition5": "CEO, Сryptocurrency expert"
+  },
+
+
+  "where": {
+    "title": " Where are we?"
+  },
+
+  "contact": {
+    "name1": "Ralph Edwards",
+    "position1": "Community manager",
+    "name2": "Arlene McCoy",
+    "position2": " Community manager",
+
+    "title": "Contact us",
+    "subtitle": "Use this form to reach out to us",
+    "email": "Enter your email",
+    "message": "Message",
+    "send": "Send message"
+  },
+
+  "faq": {
+    "title": "Popular Questions",
+    "ques1title": "Liquidity",
+    "ans1title": "Digital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 years",
+    "ques2title": "Status migration",
+    "ans2title": "Digital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 years",
+    "ques3title": "Team",
+    "ans3title": "Digital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 years",
+    "ques4title": "Roadmap",
+    "ans4title": "Digital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 years",
+    "ques5title": "Legal",
+    "ans5title": "Digital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 years",
+    "ques6title": "Security",
+    "ans6title": "Digital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 yearsDigital currencies made a lot of buzz in the past 10 years"
+  },
+
+  "explore": {
+    "title": "Explore the brave new world of digital finance!",
+    "subtitle": "Download 8wallet app or set up an account right now!",
+    "getstarted": "Get Started"
+  },
+
+
+  "footer": {
+    "lang": "Language"
+  },
+
+  "footerProdyctNav": {
+    "title": "Products",
+    "el1": "Wallet",
+    "el2": "Buy Crypto",
+    "el3": "Crypto Widget",
+    "el4": "API",
+    "el5": "Affiliate Program"
+  },
+
+  "footerPolicyNav": {
+    "title": "Policy",
+    "el1": "Terms of Service",
+    "el2": "Privacy Policy",
+    "el3": "AML/KYC Policy",
+    "el4": "Refund Policy",
+    "el5": "Cookie Policy"
+  },
+
+  "footerNav": {
+    "title": "Information Center",
+    "blog": "Blog",
+    "academy": "Crypto Academy",
+    "faq": "FAQ",
+    "suport": "24/7 Support",
+    "telegram": "Telegram",
+    "zen": "Zendesk",
+    "emain": "Email",
+    "folowus": "Follow Us"
+  },
+
+  "footerBottom": {
+    "copy": "Our Site, 8wallet.com, is owned and operated by <em>Eight Holding OÜ</em>, a limited company registered in Estonia under registry code <em>14777241</em> licensed by Politsei- ja Piirivalveamet. License - <em>FVT000000</em>. Providing services of exchanging a virtual currency against a fiat currency. Providing a virtual currency wallet service. Registered address is Harju maakond, Tallinn, Põhja-Tallinna linnaosa, Tööstuse tn 47a-28, 10416 ",
+    "weAccept": "We Accept:"
+  },
+
+
+
+  "heroapi": {
+    "title": " Crypto payments on your website? Solved.",
+    "subtitle": "Discover a hassle-free way to start accepting crypto at your online business and increase your clientele.",
+    "button": "Contact Manager",
+    "item1title": "Integrated Wallet API",
+    "item1subtitle": "Diverse Payment Functionality, <br> Simple & Smooth Setup",
+    "item2title": "Merchant’s Dashboard",
+    "item2subtitle": "Intuitive Crypto-Fiat Gateway, <br> No KYC Required"
+  },
+
+  "standart": {
+    "title": "Bringing the new standard in crypto payments",
+
+    "el1title": "Specialty Offer for Merchants",
+    "el1li1": "Auto-withdrawals to an external wallet",
+    "el1li2": "<b>0.5% fee on incoming transactions</b>",
+    "el1li3": "Support for major cryptocurrencies",
+
+    "el2title": "State-of-the-Art API",
+    "el2li1": "Simple & fast integration (~48 hours)",
+    "el2li2": "Email & Dashboard notifications",
+    "el2li3": "Built-in compliance solution",
+
+    "el3title": "Web UI Dashboard",
+    "el3li1": "Central hub for all crypto operations",
+    "el3li2": "Customizable payout methods",
+    "el3li3": "Enhanced security options"
+  },
+
+  "forget": {
+    "title": "Forget banking cards. Embrace e-commerce with crypto"
+  },
+
+   "allcryptoapi": {
+    "title": "All the cryptocurrencies you need. <br> And even more",
+    "subtitle": " 8wallet supports all major cryptocurrencies. New currencies are added regularly, discover them all in the list below.",
+    "button": "And many others"
+  },
+
+  "percent": {
+    "el1title": "fee on AML-approved <br> incoming crypto transactions",
+    "el2title": "fee on payouts made to EUR SEPA accounts"
+  },
+
+   "step": {
+    "title": "How do I start receiving crypto payments?",
+
+    "el1title": "Create an account",
+    "el1subtitle": "Contact our manager for an exclusive offer or simply register an account and begin API integration.",
+    
+    "el2title": "Connect Wallet API",
+    "el2subtitle": "You can find all necessary info and API keys on the Dashboard. In case of any troubles, our support will be happy to assist you.",
+
+    "el3title": "Receive Crypto",
+    "el3subtitle": "You’re all set! Any incoming crypto transaction will be reflected in your balances.",
+
+    "button": "Sign Up"
+  },
+
+  "enjoy": {
+    "title": "Enjoying crypto? Spread the word!",
+    "subtitle": "Earn up to 50% of your partners' fees.",
+
+    "el1title": "01. Get Started",
+    "el1subtitle": "Fill out a short contact form on the website with your information.",
+
+    "el2title": "02. Get Ready",
+    "el2subtitle": "Copy the referral link and select necessary promo materials.",
+
+    "el3title": "03. Promote & Earn!",
+    "el3subtitle": "Promote 8wallet on your resource and get up to 50% of fees from your invited users.",
+
+    "righttitle": "Invited Users"
+  },
+
+  "partners": {
+    "title": "Our lifetime partners",
+    "el1text": "Diam eget dui quis etiam pellentesque orci scelerisque arcu aliquet. Phasellus mi sem morbi gravida egestas vitae pellentesque.",
+    "el2text": "Diam eget dui quis etiam pellentesque orci scelerisque arcu aliquet. Phasellus mi sem morbi gravida egestas vitae pellentesque.",
+    "el3text": "Diam eget dui quis etiam pellentesque orci scelerisque arcu aliquet. Phasellus mi sem morbi gravida egestas vitae pellentesque.",
+    "el4text": "Diam eget dui quis etiam pellentesque orci scelerisque arcu aliquet. Phasellus mi sem morbi gravida egestas vitae pellentesque."
+  },
+
+
+
+  "herobitcoin": {
+    "title": "Bitcoin Cash Wallet App",
+    "subtitle": "Download the app and start using the free Bitcoin Cash wallet. <br> Buy and sell cryptocurrency with the most profitable exchange rate.",
+    "rev1": "78 reviews",
+    "rev2": "78 reviews"
+  },
+
+  "create": {
+    "title": "Benefits",
+    "subtitle": "Are you ready to install the anonymous Bitcoin Cash wallet and use all its <br> benefits? It is time to start and create BCH wallet",
+    "el1text": "Download the Bitcoin.com Wallet app for iOS, Android, Windows, Linux, or Mac",
+    "el2text": "Download the Bitcoin.com Wallet app for iOS, Android, Windows, Linux, or Mac",
+    "el3text": "Download the Bitcoin.com Wallet app for iOS, Android, Windows, Linux, or Mac",
+    "el4text": "Download the Bitcoin.com Wallet app for iOS, Android, Windows, Linux, or Mac"
+  },
+
+  "benefits": {
+    "title": "Benefits",
+    "subtitle": "Are you ready to install the anonymous Bitcoin Cash wallet and use all its <br> benefits? It is time to start and create BCH wallet",
+
+    "el1title": "Profitability",
+    "el1text": "Are you ready to install the anonymous Bitcoin Cash wallet and use all its benefits? It is time to start and create BCH wallet: ",
+
+    "el2title": "Anonymity",
+    "el2text": "Are you ready to install the anonymous Bitcoin Cash wallet and use all its benefits? It is time to start and create BCH wallet:",
+
+    "el3title": "Comfort",
+    "el3text": "Are you ready to install the anonymous Bitcoin Cash wallet and use all its benefits? It is time to start and create BCH wallet:",
+
+    "el4title": "24/7 Support",
+    "el4text": "Are you ready to install the anonymous Bitcoin Cash wallet and use all its benefits? It is time to start and create BCH wallet:"    
+  },
+
+   "post": {
+    "title": "What is Bitcoin Cash (BCH)?",
+    "text": "Bitcoin Cash (BCH) is a fork from the original Bitcoin Cash. It was created to solve the issue of slow transactions and high fees. <br><br> Bitcoin Cash developers pay special attention to security, additional security measures are applied such as segregated witness technology and protection against double-spending. <br><br> Check here how to get a Bitcoin Cash wallet, create Bitcoin Cash wallet for free and start earning! <br><br> Bitcoin Cash developers pay special attention to security, additional security measures are applied such as segregated witness technology and protection against double-spending."
+  },
+
+  "type": {
+    "title": "Types of Cryptocurrency Wallets",
+
+    "el1title": "Web-Based Wallet",
+    "el1text": "This is a browser extension that can be used from different devices.",
+
+    "el2title": "Desktop Wallet",
+    "el2text": "This is software that can be installed on computers working on Windows, Linux, or iOS. It can support several cryptocurrency types.",
+
+    "el3title": "Mobile Wallet",
+    "el3text": "This is a smartphone app (iOS or Android, can be used on any smartphone, iPhone, iPad, etc.) that supports all main cryptocurrencies."
+  },
+
+  "bigpost": {
+    "title": "Best Dogecoin Wallet App to Safeguard <br> Your DOGE Assets Using Your Smartphone",
+    "text": "A relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transfer assets internationally. Cryptocurrencies guarantee the fastest, safest, and cheapest transactions. Some cryptocurrencies are also viable investment tools. With every new coin becoming mainstream, there are opportunities to speculate and have good gains. You can get the best Bitcoin Cash wallet on the web. It is a Bitcoin Cash wallet app for iOS and Android. Install it on your iPhone, iPad, smartphone, or tablet. You can do it easily. After installing the software, the next step is opening it so the app can create your seed-phrase. You must keep this information safe. Store it always. <br><br> That’s why some people in the USA and other countries choose to buy Bitcoin Cash (BCH), a promising cryptocurrency. Some use a cloud based digital wallet to store their BCH assets. They perform operations and access their assets through a desktop computer. While this is fine, some other people ask: “Is there a wallet that I can use from my mobile phone?” The answer is yes, the Trustee Wallet app. This app is free.",
+    "bigtext": "A relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transfer A relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transfer A relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transferA relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transferA relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transferA relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transferA relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transferA relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transferA relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transferA relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transferA relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transfer",
+    "readmore": "Read more"
+  },
+
+  "secondfaq": {
+    "title": "Popular Questions",
+    "more": "More",
+
+    "el1title": "Liquidity",
+    "el1subtitle": "Phasellus nam lacinia rhoncus id eget purus nulla er ultrices. Sapien dignissim dui, dignissim convallis ytec egestas volutpat vulputate sagittis. Sed mauris sevas",
+
+    "el2title": "Legal",
+    "el2subtitle": "Phasellus nam lacinia rhoncus id eget purus nulla er ultrices. Sapien dignissim dui, dignissim convallis ytec egestas volutpat vulputate sagittis. Sed mauris sevas",
+    
+    "el3title": "Security",
+    "el3subtitle": "Phasellus nam lacinia rhoncus id eget purus nulla er ultrices. Sapien dignissim dui, dignissim convallis ytec egestas volutpat vulputate sagittis. Sed mauris sevas",
+
+    "el4title": "Status",
+    "el4subtitle": "Phasellus nam lacinia rhoncus id eget purus nulla er ultrices. Sapien dignissim dui, dignissim convallis ytec egestas volutpat vulputate sagittis. Sed mauris sevas",
+
+    "el5title": "Team",
+    "el5subtitle": "Phasellus nam lacinia rhoncus id eget purus nulla er ultrices. Sapien dignissim dui, dignissim convallis ytec egestas volutpat vulputate sagittis. Sed mauris sevas",
+
+    "el6title": "Roadmap",
+    "el6subtitle": "Phasellus nam lacinia rhoncus id eget purus nulla er ultrices. Sapien dignissim dui, dignissim convallis ytec egestas volutpat vulputate sagittis. Sed mauris sevas"
+  },
+
+   "wallet": {
+    "title": "Create your wallet now!",
+    "subtitle": "Phasellus nam lacinia rhoncus id eget purus nulla er ultrices. <br> Sapien dignissim dui, dignissim convalli nam lacinia er purus."
+  },
+
+
+
+
+   "herobuy": {
+    "title": "Want to Buy Crypto with Card?",
+    "subtitle": "You’ve come to the right place. Our global fiat gateway is a definitive entrance to the crypto world.",
+    "rev1": "78 reviews",
+    "rev2": "78 reviews",
+    "righttitle": "Buy crypto with Card",
+    "rightsubtitle": "You want to Buy",
+    "swap": "Swap",
+    "adres": "Your Wallet Address",
+    "cont": "Continue"
+  },
+
+   "futured": {
+    "title": "FEATURED ON"
+  },
+
+  "four": {
+    "title": "Four easy steps to buy cryptocurrency",
+
+    "el1title": "Specify purchase details",
+    "el1text": "Select cryptocurrency from the drop-down list, enter amount and destination wallet address.",
+
+    "el2title": "Enter contact & payment info",
+    "el2text": "Enter and confirm your personal information: email address, phone number, full name and date of birth, as well as your credit card details.",
+
+    "el3title": "Verify your identity",
+    "el3text": "In order to process this purchase, we need to verify that you're a real person. Please, upload required documents: a picture of ID and a photo of yourself holding this ID.",
+
+    "el4title": "Receive your crypto!",
+    "el4text": "Your payment will be instantly processed right after the quick KYC check. Check your wallet for an incoming cryptocurrency transaction and enjoy your new assets!"
+  },
+
+  "multi": {
+    "title": "Multi-Currency Payment Gateways",
+    "subtitle": "Explore available deposit and withdrawal methods and choose what suits you best: wire transfers, credit and debit cards or cryptocurrency.",
+    "el1title": "Credit & debit cards",
+    "el1text": "All fiat payments made with Visa/Mastercard are processed through 8wallet’s secure and compliant payment gateway, ensuring seamless experience and instant crypto purchase.",
+    "el2title": "Wire transfer (SEPA)",
+    "el2text": "Our cutting-edge technology provides a compliant gateway for standartized payment transactions in Europe, making money transfers easier and more transparent."
+  },
+
+   "allcrypto": {
+    "title": "All the cryptocurrencies you need. <br> And even more",
+    "subtitle": " 8wallet supports all major cryptocurrencies. New currencies are added regularly, discover them all in the list below.",
+    "other": "And many others",
+    "seeall": "See all"
+  },
+
+  "local": {
+    "title": "Pay with your local fiat currency",
+    "subtitle": "8wallet team is always working to deliver you the most convenient experience on the market. Explore what makes 8wallet truly outstanding."
+  },
+
+  "whyuse": {
+    "title": "Why use 8wallet?",
+    "sutitle": "Our payment gateway provides you with ability to deposit, withdraw and exchange in U.S. Dollar (USD), Euro (EUR), Ukrainian Hryvnia (UAH) and Russian Ruble (RUB).",
+
+    "el1title": "Instant Delivery",
+    "el1subtitle": "Cryptocurrency will be delivered to your wallet address momentarily right after the payment is processed.",
+
+    "el2title": "Licensed & Compliant",
+    "el2subtitle": "8wallet is a fully licensed cryptocurrency provider registered in Estonia. We are committed to compliancy and operate in accordance with industry regulations.",
+
+    "el3title": "Affordable Fees",
+    "el3subtitle": "We offer some of the lowest fiat-to-crypto exchange fees for purchases made via credit cards and wire transfers.",
+
+    "el4title": "Lightning-fast KYC",
+    "el4subtitle": "Our KYC procedure is designed with simplicity and your comfort in mind. Account verification is automated and takes less than 2 minutes.",
+
+    "el5title": "Instant Delivery",
+    "el5subtitle": "Cryptocurrency will be delivered to your wallet address momentarily right after the payment is processed.",
+
+    "el6title": "Licensed & Compliant",
+    "el6subtitle": "8wallet is a fully licensed cryptocurrency provider registered in Estonia. We are committed to compliancy and operate in accordance with industry regulations.",
+
+    "el7title": "Affordable Fees",
+    "el7subtitle": "We offer some of the lowest fiat-to-crypto exchange fees for purchases made via credit cards and wire transfers.",
+
+    "el8title": "Lightning-fast KYC",
+    "el8subtitle": "Our KYC procedure is designed with simplicity and your comfort in mind. Account verification is automated and takes less than 2 minutes."
+  },
+
+
+
+
+
+  "herocurent": {
+    "title": "Leveraging technology to secure your future",
+    "subtitle": "At 8wallet we strive to deliver a fully secure and private wallet experience. Explore the methods we employ to safeguard your journey below.",
+    "rev1": "78 reviews",
+    "rev2": "78 reviews"
+  },
+
+  "fourcurient": {
+    "title": "How to Buy Dogecoin with a Card",
+    "subtitle": "Are you ready to install the anonymous Bitcoin Cash wallet and  use all its benefits? It is time to start and create BCH wallet:",
+
+    "el1title": "Specify purchase details",
+    "el1subtitle": "Select cryptocurrency from the drop-down list, enter amount and destination wallet address.",
+
+    "el2title": "Enter contact & payment info",
+    "el2subtitle": "Enter and confirm your personal information: email address, phone number, full name and date of birth, as well as your credit card details.",
+
+    "el3title": "Verify your identity",
+    "el3subtitle": "In order to process this purchase, we need to verify that you're a real person. Please, upload required documents: a picture of ID Passport and a photo of yourself holding this ID Passport.",
+
+    "el4title": "Receive your crypto!",
+    "el4subtitle": "Your payment will be instantly processed right after the quick KYC check. Check your wallet for an incoming cryptocurrency transaction and enjoy your new assets!"
+  },
+
+   "postcur1": {
+    "title": "What is Dogecoin (DOGE)?",
+    "text": "Bitcoin Cash (BCH) is a fork from the original Bitcoin Cash. It was created to solve the issue of slow transactions and high fees. Bitcoin Cash developers pay special attention to security, additional security measures are applied such as segregated witness technology and protection against double-spending. Check here how to get a Bitcoin Cash wallet, create Bitcoin Cash wallet for free and start earning! Bitcoin Cash developers pay special attention to security, additional security measures are applied such as segregated witness technology and protection against double-spending."
+  },
+
+  "postcur2": {
+    "title": "Best Dogecoin Wallet App to Safeguard Your DOGE Assets Using Your Smartphone",
+    "text": "A relatively new way of performing exchange transactions is the use of cryptocurrencies. They have been used successfully to transfer assets internationally. Cryptocurrencies guarantee the fastest, safest, and cheapest transactions. Some cryptocurrencies are also viable investment tools. With every new coin becoming mainstream, there are opportunities to speculate and have good gains. You can get the best Bitcoin Cash wallet on the web. It is a Bitcoin Cash wallet app for iOS and Android. Install it on your iPhone, iPad, smartphone, or tablet. You can do it easily. After installing the software, the next step is opening it so the app can create your seed-phrase. You must keep this information safe. Store it always. That’s why some people in the USA and other countries choose to buy Bitcoin Cash (BCH), a promising cryptocurrency. Some use a cloud based digital wallet to store their BCH assets. They perform operations and access their assets through a desktop computer. While this is fine, some other people ask: “Is there a wallet that I can use from my mobile phone?” The answer is yes, the Trustee Wallet app. This app is free."
+  },
+
+
+
+  "herosecurity": {
+    "title": "Leveraging technology to secure your future",
+    "subtitle": "At 8wallet we strive to deliver a fully secure and private wallet experience. Explore the methods we employ to safeguard your journey below."
+  },
+
+  "foursecurity": {
+    "title": "Security Features",
+
+    "el1title": "Multi-Factor Authentication",
+    "el1subtitle": "We employ various methods to keep your account secure from unauthorized intrusions, including email & phone number confirmations.",
+
+    "el2title": "Withdrawal Whitelist",
+    "el2subtitle": "list of your trusted wallet addresses to allow outgoing transactions only to these addresses.",
+
+    "el3title": "Activity Notifications",
+    "el3subtitle": "Each time you login into the system, a notification letter with details regarding login activity will be sent to you via email."
+
+  },
+
+  "featureservices": {
+    "el1title": "Your Keys. Your Privacy.",
+    "el1subtitle": "All private keys are stored only on your device and available for export at any time. No one can access your wallet or your personal data. Simple as that.",
+
+    "el2title": "Real-Time System Monitoring",
+    "el2subtitle": "Our system’s transactional activity is being monitored 24 7 in order to identify and flag suspicious activity and prevent unlawful financial activities.",
+
+    "el3title": "TLS - SSL 1.3 Encryption",
+    "el3subtitle": "browsing the 8wallet website, all your personal info is encrypted and protected via a Transport Layer Security protocol v 1.3.",
+
+    "el4title": "Pentesting Team",
+    "el4subtitle": "We’ve created a dedicated team that tests our own software solutions to deliver you the most secure experience on the market.",
+
+    "el5title": "Bug Bounty Program",
+    "el5subtitle": "In order to leverage the expertise of the broader security research community, we’ve established a Bug Bounty Program. Every user can submit details about bugs and vulnerabilities found within our system and get a reward for taking part in the system's development. ",
+
+    "el6title": "Security Audits",
+    "el6subtitle": "8wallet has partnered with COMPANYNAME, a reliable and trusted auditing firm that will commence scrutiny of our products and ensure that 8wallet is on par with the best cybersecurity standards."
+  }
+
+}
